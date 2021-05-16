@@ -33,7 +33,7 @@ main > :first-child {
   background-color: palegreen;
 }
 
-.box2 {
+.content {
   background-color: green;
   max-width: 700px;
   flex-grow: 1;
@@ -42,7 +42,7 @@ main > :first-child {
   padding: 20px;
 }
 
-.box2 > div {
+.content > div {
   height: 130px;
   flex-basis: 200px;
   background-color: #f0e68c;
